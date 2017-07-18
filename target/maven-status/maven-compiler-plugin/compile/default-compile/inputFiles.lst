@@ -1,0 +1,10 @@
+/Users/alexandre1202/Documents/dev/workspace-neon-v3/username/src/main/java/br/com/aab/usernameavailable/vo/UserNameVO.java
+/Users/alexandre1202/Documents/dev/workspace-neon-v3/username/src/main/java/br/com/aab/usernameavailable/exception/UserNameException.java
+/Users/alexandre1202/Documents/dev/workspace-neon-v3/username/src/main/java/br/com/aab/usernameavailable/model/UserNameModel.java
+/Users/alexandre1202/Documents/dev/workspace-neon-v3/username/src/main/java/br/com/aab/usernameavailable/business/local/impl/UserNameBusinessLocalImpl.java
+/Users/alexandre1202/Documents/dev/workspace-neon-v3/username/src/main/java/br/com/aab/usernameavailable/util/UserNameFiles.java
+/Users/alexandre1202/Documents/dev/workspace-neon-v3/username/src/main/java/br/com/aab/usernameavailable/business/local/UserNameBusinessLocal.java
+/Users/alexandre1202/Documents/dev/workspace-neon-v3/username/src/main/java/br/com/aab/usernameavailable/facade/impl/UserNameFacadeImpl.java
+/Users/alexandre1202/Documents/dev/workspace-neon-v3/username/src/main/java/br/com/aab/usernameavailable/service/UserName.java
+/Users/alexandre1202/Documents/dev/workspace-neon-v3/username/src/main/java/br/com/aab/usernameavailable/helper/UserNameHelper.java
+/Users/alexandre1202/Documents/dev/workspace-neon-v3/username/src/main/java/br/com/aab/usernameavailable/facade/UserNameFacade.java

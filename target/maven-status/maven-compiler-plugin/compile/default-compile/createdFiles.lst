@@ -1,0 +1,10 @@
+br/com/aab/usernameavailable/facade/UserNameFacade.class
+br/com/aab/usernameavailable/business/local/impl/UserNameBusinessLocalImpl.class
+br/com/aab/usernameavailable/model/UserNameModel.class
+br/com/aab/usernameavailable/service/UserName.class
+br/com/aab/usernameavailable/exception/UserNameException.class
+br/com/aab/usernameavailable/util/UserNameFiles.class
+br/com/aab/usernameavailable/facade/impl/UserNameFacadeImpl.class
+br/com/aab/usernameavailable/vo/UserNameVO.class
+br/com/aab/usernameavailable/helper/UserNameHelper.class
+br/com/aab/usernameavailable/business/local/UserNameBusinessLocal.class
