@@ -22,4 +22,7 @@ Procedures for a this Backend.
 
 Please download and install the Java 8, Maven, Eclipse Neon 3, Apache Tomcat 9 and Tomcat Plugin for Eclipse 
 
-The Frontend that work with this application are available in 
+The Frontend that work with this application are available in https://github.com/Alexandre1202/usernamefront
+
+I hope you enjoy it!
+
